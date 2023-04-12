@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "//github.com/Omenat83/goit-react-hw-05-movies/static/css/main.7acaea2f.css",
-    "main.js": "//github.com/Omenat83/goit-react-hw-05-movies/static/js/main.07d3183d.js",
-    "index.html": "//github.com/Omenat83/goit-react-hw-05-movies/index.html",
-    "main.7acaea2f.css.map": "//github.com/Omenat83/goit-react-hw-05-movies/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "//github.com/Omenat83/goit-react-hw-05-movies/static/js/main.07d3183d.js.map"
+    "main.css": "/goit-react-hw-05-movies/static/css/main.7acaea2f.css",
+    "main.js": "/goit-react-hw-05-movies/static/js/main.07d3183d.js",
+    "index.html": "/goit-react-hw-05-movies/index.html",
+    "main.7acaea2f.css.map": "/goit-react-hw-05-movies/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/goit-react-hw-05-movies/static/js/main.07d3183d.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
