@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "//github.com/Omenat83/goit-react-hw-05-movies/static/css/main.7acaea2f.css",
+    "main.js": "//github.com/Omenat83/goit-react-hw-05-movies/static/js/main.07d3183d.js",
+    "index.html": "//github.com/Omenat83/goit-react-hw-05-movies/index.html",
+    "main.7acaea2f.css.map": "//github.com/Omenat83/goit-react-hw-05-movies/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "//github.com/Omenat83/goit-react-hw-05-movies/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
